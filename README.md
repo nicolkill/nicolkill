@@ -13,6 +13,8 @@ Hello, i'm [Nicol Acosta](https://nicolkill.github.io), a Software Engineer that
 - [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
   - [Node](https://nodejs.org/en)
   - [React](https://react.dev/)
+  - [NestJS](https://nestjs.com/)
+  - [NestJS](https://nextjs.org)
 
 ### Open source!
 
