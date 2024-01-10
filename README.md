@@ -2,10 +2,10 @@
 
 Hello, i'm [Nicol Acosta](https://nicolkill.github.io), a Software Engineer that loves to work using Elixir but it's not my unique skill, i love to build stuff, on open source or private if its something good i can create a space to work in
 
-- 💼 An interested project to join or create from scratch?, reach me: [Email](mailto:nicolacosta8@gmail.com), [Twitter/X](https://twitter.com/nicolkill), [Linkedin](https://www.linkedin.com/in/nicolkill/)  
+- 💼 An interested project to join or create from scratch?, reach me: [Email](mailto:nicolacosta8@gmail.com), [Twitter/X](https://twitter.com/nicolkill), [Linkedin](https://www.linkedin.com/in/nicolkill/), [dev.to](https://dev.to/nicolkill)
 - 💬 Fell free to ask, im here to help if im able
 
-**Languages and Libraries:**  
+### Languages and Libraries
 - [Elixir](https://elixir-lang.org/)
   - [Phoenix](https://www.phoenixframework.org/)
   - [Ash](https://www.ash-hq.org/)
@@ -16,7 +16,7 @@ Hello, i'm [Nicol Acosta](https://nicolkill.github.io), a Software Engineer that
   - [NestJS](https://nestjs.com/)
   - [NextJS](https://nextjs.org)
 
-### Open source!
+### Open source
 
 [`dbb`](https://github.com/nicolkill/dbb) to create an CRUD Admin with API and Web access using a `.json` file to create your schemas, created in Elixir/Phoenix/LiveView  
 [`map_schema_validator`](https://github.com/nicolkill/map_schema_validator) to validate map/json data in Elixir creating schemas to validate  
