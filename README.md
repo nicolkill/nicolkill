@@ -18,10 +18,10 @@ Hello, i'm [Nicol Acosta](https://nicolkill.github.io), a Software Engineer that
 
 ### Open source
 
-[`dbb`](https://github.com/nicolkill/dbb) to create an CRUD Admin with API and Web access using a `.json` file to create your schemas, created in Elixir/Phoenix/LiveView  
-[`map_schema_validator`](https://github.com/nicolkill/map_schema_validator) to validate map/json data in Elixir creating schemas to validate  
-[`fl_ex`](https://github.com/nicolkill/fl_ex) to create simple web servers in Elixir with just a few files, pre-configured and ready to work  
-[`ex_crawlzy`](https://github.com/nicolkill/ex_crawlzy) helps to create web-crawlers in Elixir, pre-configured but with a lot of options to personalize  
-[`stapi`](https://github.com/nicolkill/stapi) helps to export a database snapshot of some ecto schemas defined on a module, with a simple mix task  
+- [`dbb`](https://github.com/nicolkill/dbb) to create an CRUD Admin with API and Web access using a `.json` file to create your schemas, created in Elixir/Phoenix/LiveView  
+- [`map_schema_validator`](https://github.com/nicolkill/map_schema_validator) to validate map/json data in Elixir creating schemas to validate  
+- [`fl_ex`](https://github.com/nicolkill/fl_ex) to create simple web servers in Elixir with just a few files, pre-configured and ready to work  
+- [`ex_crawlzy`](https://github.com/nicolkill/ex_crawlzy) helps to create web-crawlers in Elixir, pre-configured but with a lot of options to personalize  
+- [`precuter`](https://github.com/nicolkill/precuter) is another decorator library for Elixir
 
 I have more ideas to improve the libraries and also more new stuff to develop
